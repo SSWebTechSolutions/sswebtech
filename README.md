@@ -1,2 +1,0 @@
-# sswebtech
-Portfolio Website
